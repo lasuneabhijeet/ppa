@@ -39,7 +39,7 @@ class Derived : public Base
       {
         cout<<"Inside derived mun\n";
       }
-      void Run()   //7000
+      void Run()   //8000
       {
         cout<<"Inside derived Run\n";
       }

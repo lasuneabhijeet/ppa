@@ -29,7 +29,7 @@ class Derived : public Base
 
 int main()
 {
-   // Base bobj;
+   //Base bobj ;
     Derived dobj;
    
    
